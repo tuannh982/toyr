@@ -5,3 +5,6 @@
 Modify `Main.java` then run and wait...
 
 Output image is `test.png`
+
+**Example image**
+![example](./test.png)
